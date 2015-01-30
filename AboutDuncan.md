@@ -1,12 +1,13 @@
 #About Me: Duncan Fraser
 
-Things to add
 **Day job:** Analyst at <a href=http://crossix.com/>Crossix</a>
+
 **Data:**
 
 - Data I've worked with through my job:
   * Rx transactions
-  * Various marketing activity and exposure data: CRM, Digital Ads, TV exposure, print etc etc
+  * Various marketing activity and exposure data: 
+    * CRM, Digital Ads, TV exposure, Print
   * HCP and Physician data
 - Other data I'm interested in:
   * City and Travel
@@ -16,7 +17,7 @@ Things to add
 
 **Why GA Data Science?**
 
-> I have great exposure to the power of data through my work, but not many of the widely used tools and techniques.  I see this class as an opportunity to familiarize myself with python as well as get some exposure to the Machine Learning aspect of Data Science.  Plus who doesn't love to learn?
+  I have great exposure to the power of data through my work, but not many of the widely used tools and techniques.  I see this class as an opportunity to familiarize myself with python as well as get some exposure to the Machine Learning aspect of Data Science.  Plus who doesn't love to learn?
 
 **Some Recent Reading:**
 
