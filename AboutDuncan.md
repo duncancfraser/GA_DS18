@@ -1,15 +1,17 @@
 #About Me: Duncan Fraser
 
-**Day job:** Analyst at <a href=http://crossix.com/>Crossix</a>
+**What do you do?** 
 
-**Data:**
+I am currently an analyst at <a href=http://crossix.com/>Crossix</a>.  I also enjoy biking, good movies, Boston sports, and cooking.
 
-- Data I've worked with through my job:
+**What data interests you?**
+
+- Through my job I've worked with healthcare marketing data including:
   * Rx transactions
+  * HCP and Physician info
   * Various marketing activity and exposure data: 
-    * CRM, Digital Ads, TV exposure, Print
-  * HCP and Physician data
-- Other data I'm interested in:
+    * CRM Databases, Digital and TV Ad Exposure, Print
+- Additionally I'm interested in this stuff:
   * City and Travel
   * TV and Film
   * Sports 
@@ -17,9 +19,10 @@
 
 **Why GA Data Science?**
 
-  I have great exposure to the power of data through my work, but not many of the widely used tools and techniques.  I see this class as an opportunity to familiarize myself with python as well as get some exposure to the Machine Learning aspect of Data Science.  Plus who doesn't love to learn?
+ Through work, I've been exposed to how businesses use data to improve decision making. However, we work mostly with a proprietary tool, *SafeMine, anyone?* so I really haven't been exposed to the broader tools and techniques out there.  I see this class as an opportunity to familiarize myself with python, work on a cool project of my choice and get some exposure to machine learning.  Plus who doesn't love to learn?
 
-**Some Recent Reading:**
+**What have you read lately?**
 
 1. <a href="http://regressing.deadspin.com/why-those-statistics-about-the-patriots-fumbles-are-mos-1681805710/"">Go Patriots: debunking that fumble analysis</a>
 2. <a href="http://www.getadatasciencejob.com/advice/building-a-data-science-portfolio-project-top-down/">Building a Data Science Portfolio</a>
+3. [Isaac Asimov](http://www.multivax.com/last_question.html)
