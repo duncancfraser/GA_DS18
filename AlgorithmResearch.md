@@ -13,7 +13,7 @@
 **Application Overview**
 
 No. | Application          | Business Question 
--------------------------------------------------------------------------------------------------------------------------------------------
+----|----------------------|---------------------------------------------------------------------------------------------------------------
 1.  | CRM Messenging       | How can a brand anticipate customer wants based on common combinations of purchases and message accordingly?
 2.  | Savings offer bundle | Given a diverse, related product line, what products should be bundled in coupons to increase sales?
 3.  | Product placement    | What products should be placed together on a store shelf based on customer purchasing behavior?
