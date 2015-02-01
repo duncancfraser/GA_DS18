@@ -7,18 +7,18 @@
 
 **How it works:**
 
-* The algorithm addresses the problem in two steps:
-  1. Identify frequent itemsets in the data. *For example, in a pharmacy transaction dataset, what groups of purchases appear together frequently for customers?*
-    * Note: there is a frequency minimum set by the user to improve the power of the analysis.  The lower the frequency threshold, the higher chance of a large number of rules with less strength.
-  2.  Mathematically describe the relationship between the different items in the itemset.  *For example, if a common itemset includes a toothbrush, toothpaste and mouthwash, given two of those items are were purchased, what is the probability the third will also be purchased?*
+The algorithm addresses the problem in two steps:
+1. Identify frequent itemsets in the data. *For example, in a pharmacy transaction dataset, what groups of purchases appear together frequently for customers?*
+  * Note: there is a frequency minimum set by the user to improve the power of the analysis.  The lower the frequency threshold, the higher chance of a large number of rules with less strength.
+2.  Mathematically describe the relationship between the different items in the itemset.  *For example, if a common itemset includes a toothbrush, toothpaste and mouthwash, given two of those items are were purchased, what is the probability the third will also be purchased?*
 
 **Application Overview**
 
-No. | Application          | Business Question 
-----|----------------------|---------------------------------------------------------------------------------------------------------------
-1.  | CRM Messenging       | How can a brand anticipate customer wants based on common combinations of purchases and message accordingly?
-2.  | Savings offer bundle | Given a diverse, related product line, what products should be bundled in coupons to increase sales?
-3.  | Product placement    | What products should be placed together on a store shelf based on customer purchasing behavior?
+No.   | Application          | Business Question 
+------|----------------------|-------------------------------------------------------------------------------------------------------------
+i.    | CRM Messenging       | How can a brand anticipate customer wants based on common combinations of purchases and message accordingly?
+ii.   | Savings offer bundle | Given a diverse, related product line, what products should be bundled in coupons to increase sales?
+iii.  | Product placement    | What products should be placed together on a store shelf based on customer purchasing behavior?
 
 * *Details:*
 
