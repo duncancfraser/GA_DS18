@@ -1,16 +1,16 @@
-#Playing a little with markdown...
-##This is a smaller header
+##Hello, internet! My name is Duncan.
+#This is my first Git
 
-*A few of my favorite things:*
-* The Bruins
-* The Red Sox
-* The Patriots
-* The Celtics
-* Cooking
+**Find me elsewhere on the webs:**
 
-**A few of my favorite people**
+* [Twitter](https://twitter.com/duncancfraser)
+* [LinkedIn](www.linkedin.com/in/duncancfraser/)
+* [Spotify](http://open.spotify.com/user/duncancfraser)
 
-1. Leslie & Tim Fraser
-  * My parents
-2. Tom Brady & Ted Williams
-  * Sports heros
+**Stuff I like:**
+
+* [Doxens](http://www.dachshundclubofamerica.org/)
+* [Boston](http://grantland.com/) [Sports](http://espn.go.com/boston/)
+* [Cycling](http://wheelworks.com/images/library/Zoom/bnchi_fix_pista_via_condotti_y1bc0i55ln_11_z.jpg)
+* [Cooking](http://markbittman.com/)
+* [Travel](http://en.wikipedia.org/wiki/Spain)
