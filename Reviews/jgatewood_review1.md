@@ -1,4 +1,5 @@
 #Peer Review Project 1
+
 Reviewer: Duncan Fraser 
 Reviewee: James Gatewood
 [James's project](http://nbviewer.ipython.org/github/gatewj/GADataScience/blob/master/CondominiumAnalysis.ipynb) focuses on NYC condo prices and market values.  
@@ -11,7 +12,7 @@ Reviewee: James Gatewood
 
 ##Areas for Improvement 
 
-* I did not entirely understand why you ran a regression on the estimated gross income and the income per square foot.  I assume these are too closely related (e.g. the estimated is likely derived from the income per sq ft) for it to make sense to run a regression.
+* Overall, really great.  Would like to see you dig deeper on a few topics (like total units and income), and bring in some more context around some of the less clear numbers we're looking at (see clarification questions below).
 
 ##Clarification Questions
 

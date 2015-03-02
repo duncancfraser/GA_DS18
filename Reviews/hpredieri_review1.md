@@ -1,6 +1,8 @@
 #Peer Review Project 1
 Reviewer: Duncan Fraser 
+
 Reviewee: Houston Predieri
+
 [Houston's project](http://nbviewer.ipython.org/github/hpredieri/gassign/blob/master/tickets_final.ipynb) focuses on NBA ticket prices.  
 
 ##Project Strengths
