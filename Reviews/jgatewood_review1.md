@@ -1,7 +1,9 @@
 #Peer Review Project 1
 
-Reviewer: Duncan Fraser 
-Reviewee: James Gatewood
+*Reviewer:* Duncan Fraser 
+
+*Reviewee:* James Gatewood
+
 [James's project](http://nbviewer.ipython.org/github/gatewj/GADataScience/blob/master/CondominiumAnalysis.ipynb) focuses on NYC condo prices and market values.  
 
 ##Project Strengths
