@@ -1,6 +1,6 @@
 #Peer Review Project 1
 
-*Reviewer:** Duncan Fraser 
+**Reviewer:** Duncan Fraser 
 
 **Reviewee:** Kiyan Rajabi
 
