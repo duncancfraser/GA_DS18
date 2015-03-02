@@ -1,8 +1,8 @@
 #Peer Review Project 1
 
-*Reviewer:* Duncan Fraser 
+*Reviewer:** Duncan Fraser 
 
-*Reviewee:* Kiyan Rajabi
+**Reviewee:** Kiyan Rajabi
 
 [Kiyans's project](http://nbviewer.ipython.org/github/krajabi/ga_assignments/blob/master/Project%201%20%E2%80%94%20Exploratory%20Data%20Analysis%20%281%29.ipynb) explores different factors leading to death in NYC in 2011.  
 
