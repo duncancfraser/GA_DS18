@@ -5,7 +5,7 @@
     .               | continuous                  | categorical
     ---------------:|:---------------------------:|:--------------------
     supervised      | regression (i)              | classification (ii)
-    ---------------:|:---------------------------:|:--------------------        
+    ----------------|-----------------------------|---------------------        
     unsupervised    | dimension reduction (iii)   | clustering (iv)
 
     Algorithms:
