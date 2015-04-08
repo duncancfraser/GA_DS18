@@ -1,5 +1,4 @@
 #Linear Regression
-#---------------------
 
 ##What data problem does it solve?
 
