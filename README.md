@@ -1,5 +1,8 @@
 <h1>GA Data Science 18:</h1> 
 Welcome! 
+* [Description](https://github.com/duncancfraser/GA_DS18#description)
+* [Overview](https://github.com/duncancfraser/GA_DS18#overview)
+* [Syllabus](https://github.com/duncancfraser/GA_DS18#syllabus)
 
 ##Description:
 You've landed on my coursework for the General Assembly Data Science Course.  Feel free to check out the class notes and project work!
