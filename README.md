@@ -1,13 +1,14 @@
-#GA Data Science 18: 
+<h1>GA Data Science 18:</h1> 
+Welcome! 
 
 ##Description:
 You've landed on my coursework for the General Assembly Data Science Course.  Feel free to check out the class notes and project work!
 
 ##Overview:
-* Instructor: Ed Podojil
-* Dates: Jan 26, 2015 - Apr 20, 2015
-* Total Class Hours: 66
-* Final Project: NYC AirBnB Listings - An Exploration by Borough
+* **Instructor:** Ed Podojil
+* **Dates:** Jan 26, 2015 - Apr 20, 2015
+* **Total Class Hours:** 66
+* **Final Project:** NYC AirBnB Listings - An Exploration by Borough
 
 ##Syllabus:
 
