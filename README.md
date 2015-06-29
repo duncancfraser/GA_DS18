@@ -1,4 +1,4 @@
-# GA_DS18: Coursework W/S 2015
+#GA Data Science 18: Coursework W/S 2015
 This is my coursework for the General Assembly Data Science Course, completed on April 20, 2015.  Feel free to take a look at my project work!
 
 The abbreviated course syllabus was as follows:
