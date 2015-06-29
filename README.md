@@ -5,7 +5,7 @@ Welcome!
 * [Syllabus](https://github.com/duncancfraser/GA_DS18#syllabus)
 
 ##Description:
-You've landed on my coursework for the General Assembly Data Science Course.  Feel free to check out the class notes and project work!
+Hello world, my name is [Duncan](https://github.com/duncancfraser/GA_DS18/blob/master/DCF.md). You've landed on my coursework for the General Assembly Data Science Course.  Feel free to check out the class notes and project work! 
 
 ##Overview:
 * **Instructor:** Ed Podojil
