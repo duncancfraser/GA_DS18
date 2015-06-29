@@ -1,7 +1,8 @@
-#GA Data Science 18: Coursework W/S 2015
-This is my coursework for the General Assembly Data Science Course, completed on April 20, 2015.  Feel free to take a look at my project work!
+#GA Data Science 18: 
+##Coursework W/S 2015
+You've landed on my coursework for the General Assembly Data Science Course.  Feel free to check out the class notes and project work!
 
-The abbreviated course syllabus was as follows:
+Abbreviated course syllabus (Jan 28, 2015 - Apr 20, 2015):
 
 Wk    |Monday |Wednesday
 -----:|:------|:-----
@@ -18,3 +19,6 @@ Wk    |Monday |Wednesday
 11| **4/6/15** <br />  Building a Website in Flask | **4/8/15** <br /> Interacting with models on the web
 12| **4/13/15** <br /> Workshop / Open Lesson | **4/15/15** <br /> Workshop / Open Lesson
 13| **4/20/15** <br /> Final Presentations | 
+
+
+&copy; **2015 Duncan Fraser.**
