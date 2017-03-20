@@ -1,28 +1,28 @@
-#Naive Bayes
-##What data problem does it solve?
+# Naive Bayes
+## What data problem does it solve?
 
 Classification, supervised.
 
-##How do we evaluate performance performance
+## How do we evaluate performance performance
 
 * Accuracy: measure of correctly predicted over all observations
 * Confusion Matrix: a matrix of true values versus predicted values
 
-##What is the output?
+## What is the output?
 
 Probability of y, given a set of features variable (opposite of logistic regression)
 
-##What is interpretable of the algorithm?
+## What is interpretable of the algorithm?
 
 * 'Bayes coefficient': Probability of feature showing up, given a target variable
 * A priori: probability of y (not related to features)
 
-##How is it prone to overfitting?
+## How is it prone to overfitting?
 
 * All features treated independently.  
 * Better with small data-sets, predicts fine on larger data sets, but coefficients tend to be less useful.
 
-##How is it customizable?
+## How is it customizable?
 
 * Alpha: can assume types of regularizations
 
