@@ -1,19 +1,20 @@
 <h1>GA Data Science 18:</h1> 
+
 Welcome! 
 * [Description](https://github.com/duncancfraser/GA_DS18#description)
 * [Overview](https://github.com/duncancfraser/GA_DS18#overview)
 * [Syllabus](https://github.com/duncancfraser/GA_DS18#syllabus)
 
-##Description:
+## Description:
 Hello world, my name is [Duncan](https://github.com/duncancfraser/GA_DS18/blob/master/DCF.md). You've landed on my coursework for the General Assembly Data Science Course.  Feel free to check out the class notes and project work! 
 
-##Overview:
+## Overview:
 * **Instructor:** Ed Podojil
 * **Dates:** Jan 26, 2015 - Apr 20, 2015
 * **Total Class Hours:** 66
 * **Final Project:** NYC AirBnB Listings - An Exploration by Borough
 
-##Syllabus:
+## Syllabus:
 
 Wk    |Monday |Wednesday
 -----:|:------|:-----
