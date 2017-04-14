@@ -1,4 +1,4 @@
-##Hello, GitHub! My name is Duncan.
+## Hello, GitHub! My name is Duncan.
 
 **Find Me Online:**
 
